@@ -1,0 +1,11 @@
+Project Roles and Responsibilities
+Role	Responsibilities	Contribution to Success
+Project Manager	Plans timelines, coordinates tasks, manages risks and communication.	Ensures smooth execution and team alignment.
+Frontend Developers	Build user interfaces using HTML, CSS, JavaScript, and React.	Deliver responsive, intuitive user experiences.
+Backend Developers	Develop APIs, manage databases, handle server logic and authentication.	Power core functionality and data flow.
+Designers	Create wireframes, UI mockups, and ensure visual consistency.	Enhance usability and aesthetic appeal.
+QA/Testers	Test features, report bugs, and ensure quality across devices.	Maintain reliability and user trust.
+DevOps Engineers	Set up CI/CD pipelines, manage deployment, monitor performance.	Ensure stable, scalable, and secure infrastructure.
+Product Owner	Defines project vision, prioritizes features, and gathers user feedback.	Aligns development with user needs and business goals.
+Scrum Master	Facilitates agile ceremonies, removes blockers, supports team productivity.	Keeps the team focused and agile throughout development.
+
